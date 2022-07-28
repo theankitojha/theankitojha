@@ -1,6 +1,14 @@
+<h1 align="center">
+  Hey, I'm Ankit Ojha.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<h3 align="center">
+  Cloud DevOps Engineer | Learner
+  </h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://xeo5.com/idl/wp-content/uploads/2021/08/DevOps-Steps-1.gif" width="500px"/>
 </div>
 
 
@@ -19,14 +27,9 @@
 
 <img align="center" src="https://komarev.com/ghpvc/?username=theankitojha&style=flat-square&color=blue" alt="profile views"/>
 
-<h1>
-  Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
+
 
 ---
 
