@@ -56,16 +56,16 @@ I am a Cloud DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ### Let's Connect : <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70px"/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/theankitojha/">
+  <a href="https://www.linkedin.com/in/theankitojha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@theankitojha">
+  <a href="https://medium.com/@theankitojha" target="_blank">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=Black" alt="Medium Badge"/>
   </a>
-    <a href="http://ankitojha.com.np/">
+    <a href="http://ankitojha.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/WWW-black?style=for-the-badge&logo=WWW&logoColor=Black" alt="WWW Badge"/>
   </a>
-      <a href="https://www.facebook.com/theankitojha">
+      <a href="https://www.facebook.com/theankitojha" target="_blank">
     <img src="https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=facebook&logoColor=Black" alt="Facebook Badge"/>
   </a>
 
