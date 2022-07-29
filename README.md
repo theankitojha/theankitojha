@@ -55,6 +55,7 @@ I am a Cloud DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 
 ### Let's Connect : <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70px"/>
+<a href="fb.com" target="_blank">TEST </a>
 <div id="badges">
   <a href="https://www.linkedin.com/in/theankitojha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -65,7 +66,7 @@ I am a Cloud DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
     <a href="http://ankitojha.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/WWW-black?style=for-the-badge&logo=WWW&logoColor=Black" alt="WWW Badge"/>
   </a>
-      <a href="https://www.facebook.com/theankitojha" target="_new"> FB
+      <a href="https://www.facebook.com/theankitojha" target="_new">
     <img src="https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=facebook&logoColor=Black" alt="Facebook Badge"/>
   </a>
 
