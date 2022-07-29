@@ -65,7 +65,7 @@ I am a Cloud DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
     <a href="http://ankitojha.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/WWW-black?style=for-the-badge&logo=WWW&logoColor=Black" alt="WWW Badge"/>
   </a>
-      <a href="https://www.facebook.com/theankitojha" target="_blank">
+      <a href="https://www.facebook.com/theankitojha" target="_new">
     <img src="https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=facebook&logoColor=Black" alt="Facebook Badge"/>
   </a>
 
