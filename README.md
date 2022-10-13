@@ -26,7 +26,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Cloud DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal currently working at Bitsbeat IT Solution.
+I am a Cloud DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal currently working at AMNIL Technologies.
 
 - :telescope: I have been working under various domains of projects fulfilling the need of Cloud DevOps Engineer. Some of the projects that I worked on are based on Ecommerce, Blockchain, Fintech, Travel, Health along with various microservice architecture and serverless applications.
 
