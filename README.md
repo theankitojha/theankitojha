@@ -26,11 +26,11 @@
 
 ### :man_technologist: About Me :
 
-I am a Cloud DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal currently working at AMNIL Technologies.
+I am a Cloud DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
 
 - :telescope: I have been working under various domains of projects fulfilling the need of Cloud DevOps Engineer. Some of the projects that I worked on are based on Ecommerce, Blockchain, Fintech, Travel, Health along with various microservice architecture and serverless applications.
 
-- :seedling: Exploring DevSecOps and SRE and myself.
+- :seedling: Exploring DevSecOps, SRE and myself.
 
 - :zap: In my free time, I play guitar, sing and read extra stuffs.
 
